@@ -1,12 +1,12 @@
-package com.task2.action.fileworking;
+package com.firstTask.action.fileworking;
 
-import com.task2.action.PlaneExecutor;
-import com.task2.exception.ArgumentNullException;
-import com.task2.exception.ExceptionMessages;
-import com.task2.exception.InvalidStringException;
-import com.task2.exception.RunOutOfPlanesException;
-import com.task2.model.Plane;
-import com.task2.model.Point;
+import com.firstTask.action.PlaneExecutor;
+import com.firstTask.exception.ArgumentNullException;
+import com.firstTask.exception.ExceptionMessages;
+import com.firstTask.exception.InvalidStringException;
+import com.firstTask.exception.RunOutOfPlanesException;
+import com.firstTask.model.Plane;
+import com.firstTask.model.Point;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
