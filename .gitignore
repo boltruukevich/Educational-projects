@@ -1,0 +1,5 @@
+/target
+.idea/
+logs/
+coordinates_list/
+test_data/
