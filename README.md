@@ -1,6 +1,5 @@
 It is necessary to write an application and tests for it according to the requirements,
-given below. The application must implement the functionality
-determined by the individual.
+given below. 
 
 The task:
 Plane. Develop classes Point and Plane (by three points in
